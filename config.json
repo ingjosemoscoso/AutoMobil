@@ -1,0 +1,13 @@
+{
+    "app_id" : "ro.marzan.legislatierutiera",
+    "versioncode" : "001",
+    "versionname" : "0.1",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"en": "English", "hu": "magyar"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "siteurl" : "http://balcescu.ro/legislatie",
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile"
+}
